@@ -118,7 +118,7 @@ export const DATA = {
       start: "December 2022",
       end: "May 2023",
       description:
-        "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
+        "Built a activity tracking system using Angular and Typescript to manage and track the activities of the bank employees.",
     },
     {
       company: "Rasant Solutions",
