@@ -157,6 +157,55 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Light SaaS Landing Page",
+      href: "https://vercel.com/hammads-projects-0e206803/sass-landing-page",
+      dates: "",
+      active: true,
+      description:
+        "Light SaaS Landing Page is a modern and responsive landing page template for SaaS products. It's built with Next.js, Typescript, TailwindCSS, and Shadcn UI.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Shadcn UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://vercel.com/hammads-projects-0e206803/sass-landing-page",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/sass-landing.png",
+      video:
+        "",
+    },
+    {
+      title: "CHAIN GPT (LaunchPad Platform)",
+      href: "https://pad.chaingpt.org",
+      dates: "August 2023 - September 2024",
+      active: true,
+      description:
+        "Built a token launchpad platform using React.js and Next.js on the frontend and Node.js/Express on the backend. The system supports Initial DEX Offerings (IDOs) with a microservices-based architecture for scalability.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Node.js",
+        "Express",
+        "TailwindCSS",
+        "Material UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://pad.chaingpt.org",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/launchpad.png",
+      video: "",
+    },
+    {
       title: "Lampadina AI",
       href: "https://lampadina.ai",
       dates: "August 2023 - November 2023",
